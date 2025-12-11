@@ -109,4 +109,5 @@ Building the future of AI-powered drug discovery
 
 ## 📧 Contact
 
-[Your contact information]
+**Email:** contact@trairc.com  
+**Company:** TRAIRC Technologies LLC
